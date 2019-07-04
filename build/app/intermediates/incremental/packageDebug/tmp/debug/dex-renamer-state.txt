@@ -1,0 +1,4 @@
+#Thu Jun 27 19:42:07 BRT 2019
+base.0=/home/david/development/flutter/curso_daniel/buscador_gifs/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
